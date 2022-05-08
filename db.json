@@ -1,0 +1,106 @@
+{
+  "properties": [
+    {
+      "id": "bb32dc153a844c01a051ab48fa543c6f",
+      "address": "Gloucester Road, London SW7 4RT",
+      "image": "https://lid.zoocdn.com/u/1024/768/2b3d21c22e792b3093479bed79b84b931e4cc062.jpg:p",
+      "askingPrice": 50000,
+      "status": true,
+      "numberOfBedrooms": 1,
+      "propertyType": "flat"
+    },
+    {
+      "id": "bb32dc153a844c01a051ab48fa543cf8",
+      "address": "Pitt Street, Kensington W8 4YU",
+      "image": "https://lid.zoocdn.com/u/1024/768/934ceace3eb4157e5497950e490bbf574f3789c6.jpg:p",
+      "askingPrice": 458000,
+      "status": true,
+      "numberOfBedrooms": 3,
+      "propertyType": "flat"
+    },
+    {
+      "id": "bb32dc153a844c01a051ab48fa543fk5",
+      "address": "Tregunter Road, London SW10 2WT",
+      "image": "https://lid.zoocdn.com/u/1024/768/bd0289edfb93c5b91efd0cb024fef91e300f682d.jpg:p",
+      "askingPrice": 200500,
+      "status": false,
+      "numberOfBedrooms": 1,
+      "propertyType": "house"
+    },
+    {
+      "id": "bb32dc153a844c01a051ab48fa54tl30",
+      "address": "Chapel Street, Belgravia, London SW1X 5TY",
+      "image": "https://lid.zoocdn.com/u/1024/768/819ee2ad900109f6048106428160f38a8b4ffb12.jpg:p",
+      "askingPrice": 25000000,
+      "status": true,
+      "numberOfBedrooms": 8,
+      "propertyType": "flat"
+    },
+    {
+      "id": "bb32dc153a844c01a051ab48fa544r9y",
+      "address": "Princes Gate, London SW7 9FT",
+      "image": "https://lid.zoocdn.com/u/1024/768/c0ecdf355a66d5c571fe35773084cb7a64dc2907.jpg:p",
+      "askingPrice": 24750000,
+      "status": true,
+      "numberOfBedrooms": 7,
+      "propertyType": "flat"
+    },
+    {
+      "id": "bb32dc153a844c01a051ab48fa54gk84",
+      "address": "Addison Road, London W14 7RE",
+      "image": "https://lid.zoocdn.com/u/1024/768/ad6411abc326cfbd0279164c867fcaa58de869d1.jpg:p",
+      "askingPrice": 22500000,
+      "status": false,
+      "numberOfBedrooms": 4,
+      "propertyType": "house"
+    },
+    {
+      "id": "bb32dc153a844c01a051ab48fa54uy79",
+      "address": "Eaton Square, Belgravia Avenue, London SW1W 8CV",
+      "image": "https://lid.zoocdn.com/u/1024/768/748e424d65a9fe7d1bf40fd5e82178804abfd323.jpg:p",
+      "askingPrice": 450000,
+      "status": true,
+      "numberOfBedrooms": 5,
+      "propertyType": "house"
+    },
+    {
+      "id": "8fa449d02c844124861508d5d7b47202",
+      "address": "Holland Park, Holland Park, Holland Road, London W11 2WT",
+      "image": "https://lid.zoocdn.com/u/1024/768/38b243cf5281ec4e98c55e72f686a5b538e6475f.jpg:p",
+      "askingPrice": 599600,
+      "status": true,
+      "numberOfBedrooms": 4,
+      "propertyType": "flat"
+    },
+    {
+      "id": "c88f216907dd42c8ac59e826e5ed5623",
+      "address": "St Johns Gardens, London W11 9FG",
+      "image": "https://lid.zoocdn.com/u/1024/768/04353a18650ae17c0c177d205cac9c1f567f7ab1.jpg:p",
+      "askingPrice": 780000,
+      "status": false,
+      "numberOfBedrooms": 3,
+      "propertyType": "house"
+    },
+    {
+      "id": "e3964e8ad4be421d839da4610cbf53d0",
+      "address": "Trevor Square, Knightsbridge SW7 3ER",
+      "image": "https://lid.zoocdn.com/u/1024/768/fc59239229e54c2da616d6e4164d74d2b6025476.jpg:p",
+      "askingPrice": 240000,
+      "status": true,
+      "numberOfBedrooms": 9,
+      "propertyType": "flat"
+    },
+    {
+      "id": "4f64d39a566942b89f99650bfd753a1d",
+      "address": "Trevor Square, Knightsbridge, London SW7 2VH",
+      "image": "https://lid.zoocdn.com/u/1024/768/930e12f034f9e4bc4fbf8bda94f026871372c43c.jpg:p",
+      "askingPrice": 999000,
+      "status": true,
+      "numberOfBedrooms": 4,
+      "propertyType": "flat"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
