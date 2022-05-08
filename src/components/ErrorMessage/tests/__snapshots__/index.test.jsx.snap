@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ErrorMessage /> tests renders correctly 1`] = `
+<div
+  className="error-page"
+>
+  <h1>
+    Oops!!
+  </h1>
+  <h3>
+    Something went wrong please try again.
+  </h3>
+</div>
+`;

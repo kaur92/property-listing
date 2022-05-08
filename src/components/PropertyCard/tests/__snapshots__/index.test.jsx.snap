@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PropertyCard /> tests renders correctly 1`] = `
+<div>
+  <div
+    className="card"
+  >
+    <div
+      className="card-image"
+    >
+      <img
+        alt=""
+        src="https://lid.zoocdn.com/u/1024/768/2b3d21c22e792b3093479bed79b84b931e4cc062.jpg:p"
+      />
+      <div
+        className="status status-active"
+      >
+        Active
+      </div>
+    </div>
+    <div
+      className="card-details"
+    >
+      <div
+        className="price"
+      >
+        <label>
+          Asking Price
+        </label>
+        <span>
+          £
+          50,000
+        </span>
+      </div>
+      <div
+        className="bathroom"
+      >
+        <label>
+          1 bed flat for sale
+        </label>
+      </div>
+      <div
+        className="address"
+      >
+        <p>
+          Gloucester Road, London SW7 4RT
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;

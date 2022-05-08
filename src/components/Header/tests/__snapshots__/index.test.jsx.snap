@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Header /> tests renders correctly 1`] = `
+<header
+  className="header"
+>
+  <img
+    alt=""
+    className="logo"
+    src="logo.svg"
+  />
+</header>
+`;

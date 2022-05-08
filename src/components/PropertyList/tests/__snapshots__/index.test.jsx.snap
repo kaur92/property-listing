@@ -1,0 +1,168 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PropertyList /> tests Empty property list should render correctly 1`] = `
+Array [
+  "0",
+  <div>
+    <div
+      className="title"
+    >
+      <h3>
+        No property found
+      </h3>
+    </div>
+  </div>,
+]
+`;
+
+exports[`<PropertyList /> tests Loading true should render correctly 1`] = `
+Array [
+  "0",
+  <div>
+    <div
+      className="title"
+    >
+      <h3>
+        No property found
+      </h3>
+    </div>
+  </div>,
+]
+`;
+
+exports[`<PropertyList /> tests Return error should render correctly 1`] = `
+Array [
+  <div
+    className="error-page"
+  >
+    <h1>
+      Oops!!
+    </h1>
+    <h3>
+      Something went wrong please try again.
+    </h3>
+  </div>,
+  "0",
+  <div>
+    <div
+      className="title"
+    >
+      <h3>
+        No property found
+      </h3>
+    </div>
+  </div>,
+]
+`;
+
+exports[`<PropertyList /> tests Two properties in list should render correctly 1`] = `
+Array [
+  <div
+    className="title"
+  >
+    <h3>
+      Properties you may like
+    </h3>
+  </div>,
+  <section
+    className="cards"
+  >
+    <div>
+      <div
+        className="card"
+      >
+        <div
+          className="card-image"
+        >
+          <img
+            alt=""
+            src="https://lid.zoocdn.com/u/1024/768/2b3d21c22e792b3093479bed79b84b931e4cc062.jpg:p"
+          />
+          <div
+            className="status status-active"
+          >
+            Active
+          </div>
+        </div>
+        <div
+          className="card-details"
+        >
+          <div
+            className="price"
+          >
+            <label>
+              Asking Price
+            </label>
+            <span>
+              £
+              50,000
+            </span>
+          </div>
+          <div
+            className="bathroom"
+          >
+            <label>
+              1 bed flat for sale
+            </label>
+          </div>
+          <div
+            className="address"
+          >
+            <p>
+              Gloucester Road, London SW7 4RT
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div>
+      <div
+        className="card"
+      >
+        <div
+          className="card-image"
+        >
+          <img
+            alt=""
+            src="https://lid.zoocdn.com/u/1024/768/c0ecdf355a66d5c571fe35773084cb7a64dc2907.jpg:p"
+          />
+          <div
+            className="status status-active"
+          >
+            Active
+          </div>
+        </div>
+        <div
+          className="card-details"
+        >
+          <div
+            className="price"
+          >
+            <label>
+              Asking Price
+            </label>
+            <span>
+              £
+              24,750,000
+            </span>
+          </div>
+          <div
+            className="bathroom"
+          >
+            <label>
+              7 bed flat for sale
+            </label>
+          </div>
+          <div
+            className="address"
+          >
+            <p>
+              Princes Gate, London SW7 9FT
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>,
+]
+`;

@@ -1,10 +1,10 @@
 .header {
-    align-items: center;
-    display: flex;
-    padding: 10px 10px;
-    box-shadow: 0px 0px 21px 0px rgba(153,153,153,1);
-  }
-  
-  .logo {
-    width: 160px;
-  }
+  align-items: center;
+  display: flex;
+  padding: 10px 10px;
+  box-shadow: 0px 0px 21px 0px rgba(200, 200, 200, 1);
+}
+
+.logo {
+  width: 160px;
+}
