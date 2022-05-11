@@ -2,7 +2,26 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Pre-requisites
+
+You will need the following already installed:
+
+- `node` (v15)
+- `npm` (v7)
+- An IDE or editor of your choice
+
+## Setup
+
+Follow these steps to setup:
+
+- Open a terminal in the the root directory
+- Install packages using `npm install`
+
+## Json Server
+- Open another terminal in the the root directory
+- Run `npm run server` to start server on port 3001
+
+## Available Frontend Scripts
 
 In the project directory, you can run:
 
